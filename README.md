@@ -23,3 +23,5 @@ print type(a)
 
 hello all
 
+my name is also called nithin
+my friend wv>?s< a>cśmg[p32GqMt,
